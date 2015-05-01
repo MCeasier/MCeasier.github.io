@@ -5,15 +5,15 @@ url: "http://example.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Gosia Ksionek
-  avatar: logo.jpg
+  title: Make Coding Easier
+  avatar: #logo.jpg
   gravatar: # email md5 hash
   description: "A personal website with blog posts, and pages." # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Gosia Ksionek</h1>
-     <p>Junior Ruby on Rails Developer</p>
+     <h1>Make Coding Easier</h1>
+     <p>Basia & Gosia</p>
 
 
   footer_text: >
@@ -21,13 +21,13 @@ theme:
 
   # Icons
   rss: false
-  email_address: meksionek@gmail.com
+  email_address: 
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: "gpks"
+  github: 
   google_plus:
   instagram:
   linkedin:  # full URL
@@ -37,7 +37,7 @@ theme:
   stack_exchange:  # full URL
   steam:
   tumblr:
-  twitter: "gosiaczu"
+  twitter: 
   wordpress:
   youtube:
 

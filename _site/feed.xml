@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Make Coding Easier</title>
+    <atom:link href="http://example.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>http://example.com/</link>
+    <description>A personal website with blog posts, and pages.</description>
+    <pubDate>Fri, 01 May 2015 23:37:05 +0200</pubDate>
+    
+      <item>
+        <title>My first post</title>
+        <link>http://example.com/2015/01/24/my_post.html</link>
+        <guid isPermaLink="true">http://example.com/2015/01/24/my_post.html</guid>
+        <description></description>
+        <pubDate>Sat, 24 Jan 2015 00:00:00 +0100</pubDate>
+      </item>
+    
+  </channel>
+</rss>
