@@ -5,14 +5,21 @@
     <atom:link href="http://example.com/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://example.com/</link>
     <description>A personal website with blog posts, and pages.</description>
-    <pubDate>Sun, 03 May 2015 18:47:27 +0200</pubDate>
+    <pubDate>Sun, 07 Jun 2015 14:46:22 +0200</pubDate>
     
       <item>
-        <title>My first post</title>
-        <link>http://example.com/2015/01/24/my_post.html</link>
-        <guid isPermaLink="true">http://example.com/2015/01/24/my_post.html</guid>
-        <description></description>
-        <pubDate>Sat, 24 Jan 2015 00:00:00 +0100</pubDate>
+        <title>Dlaczego warto mieć Twittera</title>
+        <link>http://example.com/2015/06/07/Twitter.html</link>
+        <guid isPermaLink="true">http://example.com/2015/06/07/Twitter.html</guid>
+        <description>&lt;p&gt;Czemu warto myśleć o Twitterze nie tylko jako o medium społecznościowym, ale także o cennym narzędziu rozwoju programisty? Ponieważ tak właśnie można go wykorzystać.&lt;/p&gt;
+
+&lt;p&gt;Twitter pozwala na obserwowanie właściwie każdego innego użytkownika Twittera, bez względu na położenie geograficzne czy jego popularność. Nie musisz go znać, on/ona nie muszą znać Ciebie. Nie musisz nic pisać, możesz tylko czytać, co autorytety na danym polu mają do powiedzenia, albo jakie materiały polecają. Jest to bardzo prosty i skuteczny sposób trzymania ręki na pulsie.&lt;/p&gt;
+
+&lt;p&gt;Kolejnym sposobem wykorzystania Twittera jest użycie hashtagów. Zdarzyło mi się już nie raz, że problem, z którym się zmagałam, opisany w jednym zdaniu i shashtagowany wywoływał dużą chęć niesienia pomocy ze strony innych użytkowników, których nigdy nie widziałam na oczy - dostawałam masę linków i dobrych rad. I problem przestawał być straszny.&lt;/p&gt;
+
+&lt;p&gt;Mam nadzieję, że pokazałam, że Twitter nie musi być zjadaczem czasu, a może być kolejnym sposobem na zdobywanie wartościowych informacji.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 07 Jun 2015 00:00:00 +0200</pubDate>
       </item>
     
   </channel>
